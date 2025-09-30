@@ -1,0 +1,10 @@
+<JWM>
+	<Tray autohide="off" height="48" halign="center" valign="bottom" layer="bellow">
+		<TrayButton icon="browser">exec:firefox-esr</TrayButton>
+		<TrayButton icon="pcmanfm">exec:pcmanfm</TrayButton>
+		<TrayButton icon="libreoffice-writer">exec:libreoffice --writer</TrayButton>
+		<TrayButton icon="accessories-text-editor">exec:leafpad --tab-width=4</TrayButton>
+		<TrayButton icon="keepassxc">exec:keepassxc</TrayButton>
+		<TrayButton icon="galculator">exec:galculator</TrayButton>
+	</Tray>	
+</JWM>
